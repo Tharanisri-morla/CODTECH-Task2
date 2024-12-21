@@ -7,6 +7,13 @@ Mentor:Neela santhosh kumar
 
 OVERVIEW OF THE PROJECT :~
 
+
+
+
+
+![Screenshot 2024-12-11 171445](https://github.com/user-attachments/assets/f11f67d6-d157-42ed-b229-38490f73bc1e)
+
+
 Project:~ CUSTOMER DEMOGRAPHICS ANALYSIS the main objective of this project is to Develop a report to analyze customer demographics, including
 age, gender, location, and purchasing behavior. Import customer data from a database or CSV file. Create visuals to represent demographic data
 (e.g., age distribution, gender breakdown).
